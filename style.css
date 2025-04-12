@@ -1,0 +1,31 @@
+body{
+div p{
+    color: rgba(0, 128, 0, 0.726);
+    margin: 20px, 5px, 20px, 5px;
+    border-top: 6px dashed blue;
+    border-right: 6px dashed blue;
+    border-bottom: 6px inset blue;
+    border-left: 6px inset blue;
+    width: 60px;
+    text-align: center;
+}
+
+ul > li{
+    color:rgb(0,0,255);
+    margin: 10px, 2.5px, 10px, 2.5px;
+    font-style:italic;
+}
+}
+
+h1{
+    color: #FF0000;
+    margin: 10px 10px 10px 10px;
+    border: 10px inset black;
+    text-align: center;
+
+}   
+main{
+    font-family: "Reboto", "Arial", sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
